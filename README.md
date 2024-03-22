@@ -1,2 +1,3 @@
 # html-portfolio
-miniprojects
+learning html
+
